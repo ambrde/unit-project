@@ -1,0 +1,34 @@
+/*css comments*/
+
+h2 {
+	text-indent: 50px;
+}
+
+.card-img-overlay{
+	color: white;
+}
+
+.pgcontent{
+	margin: 25px;
+}
+
+a:link.source{
+	color: #c5a0c5;
+	text-decoration: none;
+}
+
+a:visited.source{
+	color: #c5a0c5;
+	text-decoration: none;
+}
+
+a:hover.source{
+	color: #b181b1;
+	text-decoration: underline;
+}
+
+.headimage{
+	padding: 25px;
+}
+
+
